@@ -4,7 +4,7 @@ xc_tenant = "datawarden-mx-lrfjdgii"
 xc_namespace = "system"
 
 #XC LB
-app_domain = "Your App Domain"
+app_domain = "waf.dw.com"
 
 #XC WAF
 xc_waf_blocking = false
